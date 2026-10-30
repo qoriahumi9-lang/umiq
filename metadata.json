@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Warung Nasi Ampera",
+  "description": "Aplikasi kasir (POS) modern untuk Warung Nasi Ampera - Masakan Sunda Rasa Juara. Manajemen pesanan meja, kalkulator kembalian otomatis, struk belanja, dan rekap harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
